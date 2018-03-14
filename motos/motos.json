@@ -1,0 +1,16 @@
+[
+  {
+    "model": 2018,
+    "id": "ajs-cadwell-125",
+    "imageUrl": "img/motos/ajs-cadwell-125.jpg",
+    "name": "AJS Cadwell 125",
+    "snippet": "El AJS Cadwell 125, te llevará de vuelta a una época en la que las motocicletas se construyeron para la diversión y la emoción."
+  },
+  {
+    "model": 2017,
+    "id": "bmw-g310r-2017",
+    "imageUrl": "img/motos/bmw-g310r-2017.jpg",
+    "name": "BMW G310R 2017",
+    "snippet": "Atractiva, confortable, ligera, ágil y manejable."
+  }
+]

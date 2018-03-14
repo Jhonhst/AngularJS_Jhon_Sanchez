@@ -1,0 +1,30 @@
+{
+    "manufacter": {
+        "name": "BMW",
+        "country": "Alemania"
+    },
+    "engine": {
+        "gears": "1",
+        "transmission": "Manual",
+        "type": "B"
+    },
+    "description": "Atractiva, confortable, ligera, ágil y manejable. Así es la G310R con la que BMW se suma a un segmento emergente y totalmente nuevo para ellos como es el de las naked de media cilindrada. Un modelo que nace como escalón de acceso a la marca para usuarios del carnet A2.",
+    "id": "bmw-g310r-2017",
+    "images": [
+        "img/motos/bmw-g310r-2017.jpg",
+        "img/motos/bmw-g310r-2017-1.jpg",
+        "img/motos/bmw-g310r-2017-2.jpg"
+    ],
+    "name": "BMW G310R 2017",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1399.5 mm (w)",
+            "1595.8 mm (h)",
+            "4218.9 mm (l)"
+        ],
+        "weight": "159.0 Kg"
+    },
+    "space": {
+        "volume": "10.5L"
+    }
+}
